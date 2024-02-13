@@ -1,5 +1,7 @@
 # Vehicle Detection and Counting System
 
+![Alt Text](result.gif)
+
 This repository contains a Python script for detecting vehicles in a video stream, tracking their movement, and counting the number of vehicles entering and leaving a specified region. The system utilizes a pre-trained YOLO (You Only Look Once) model for object detection and the SORT (Simple Online and Realtime Tracking) algorithm for object tracking.
 
 ## Requirements
